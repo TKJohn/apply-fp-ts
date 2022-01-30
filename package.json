@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "engines": {
-    "node": "12.x.x"
+    "node": "16.x"
   },
   "scripts": {
     "test": "jest --coverage --verbose",
@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/express": "4.17.6",
     "@types/jest": "26.0.0",
-    "@types/node": "14.0.13",
+    "@types/node": "16.11.21",
     "jest": "26.6.3",
     "ts-jest": "26.1.0",
     "ts-node": "8.10.2",
