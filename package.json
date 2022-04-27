@@ -8,7 +8,7 @@
     "dev": "ts-node src/app"
   },
   "dependencies": {
-    "axios": "0.26.1",
+    "axios": "0.27.2",
     "express": "4.17.3",
     "fp-ts": "2.11.9",
     "io-ts": "2.2.16"
