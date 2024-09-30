@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "0.26.1",
     "express": "4.17.3",
-    "fp-ts": "2.11.9",
+    "fp-ts": "2.16.9",
     "io-ts": "2.2.16"
   },
   "devDependencies": {
