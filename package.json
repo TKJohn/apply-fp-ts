@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   },
   "scripts": {
     "test": "jest --coverage --verbose",
@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/express": "5.0.0",
     "@types/jest": "29.5.13",
-    "@types/node": "20.16.13",
+    "@types/node": "22.8.7",
     "jest": "29.7.0",
     "ts-jest": "29.2.5",
     "ts-node": "10.9.2",
