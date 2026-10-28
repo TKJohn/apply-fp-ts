@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "engines": {
-    "node": "22.x"
+    "node": "24.x"
   },
   "scripts": {
     "test": "jest --coverage --verbose",
